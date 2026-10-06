@@ -25,7 +25,7 @@ A LangGraph-based multi-agent system:
 
 ## Status
 
-🚧 Phase 0: Project setup
+🚧 Phase 1: Demo microservices
 
 ## Roadmap
 
