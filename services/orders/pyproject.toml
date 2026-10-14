@@ -1,0 +1,12 @@
+[project]
+name = "orders"
+version = "0.1.0"
+description = "Orders service: lets customers view and place orders"
+readme = "README.md"
+authors = [
+    { name = "Saakshi Lokhande", email = "saakshilokhande67@gmail.com" }
+]
+requires-python = ">=3.12"
+dependencies = [
+    "fastapi[standard]>=0.143.0",
+]
